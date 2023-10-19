@@ -1,0 +1,11 @@
+Very-small-Dataset
+Very-small-Dataset/
+
+embeddings.pkl
+embeddings.pkl/
+
+filenames.pkl
+filenames.pkl/
+
+resnet50_for_feature_ext.pkl
+resnet50_for_feature_ext.pkl/
